@@ -1,0 +1,19 @@
+.search_Page{
+   background-color: #f9f9f9;
+   padding: 20px 20px;
+   min-height: 100vh;
+}
+
+.search_fiter{
+    display: flex;
+    align-items: center;
+    color: #606060;
+    font-size: 14px !important;
+    gap: 10px;
+}
+.search_Page > hr{
+    color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 1px;
+}
