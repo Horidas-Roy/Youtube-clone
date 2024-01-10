@@ -21,7 +21,238 @@ const SearchPage = () => {
             />
             <hr />
             <VideoRow
-               
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
+            />
+            <VideoRow
+               views="7M"
+               subs='3M'
+               description="Do you want a free one hour training..."
+               timestamp="1 hour ago"
+               chanel="Infinity"
+               title="Lets build a Youtube clone"
+               image='https://yt3.ggpht.com/9J1ANLcucinTRXLI8Apjn0Sjpa7s22ouFbDZxFuF_Mu-1_U7UurwRy_dwbrXnGZmTq42Ts3k1vA=s88-c-k-c0x00ffffff-no-rj'
             />
         </div>
     );
