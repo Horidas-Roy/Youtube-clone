@@ -33,3 +33,11 @@
     background-color: lightgray;
 
  }
+
+ .sidebarRow.selected>.sidebarRow_icon{
+    color: red;
+ }
+
+ .sidebarRow.selected>.sidebarRow_title{
+    font-weight: bold;
+ }

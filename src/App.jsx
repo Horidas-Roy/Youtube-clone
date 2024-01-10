@@ -16,6 +16,7 @@ function App() {
       <RecomendedVideos/>
       </div>
       {/* sidebar    &   Recomended video */}
+      {/* 1h:43min paused */}
     </div>
    )
   
