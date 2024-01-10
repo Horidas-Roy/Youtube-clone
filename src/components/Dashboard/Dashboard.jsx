@@ -26,6 +26,7 @@ const Dashboard = () => {
             <SidebarRow Icon={WatchLaterIcon} title="Watch Later"/>
             <SidebarRow Icon={ThumbUpAltOutlinedIcon} title="Liked Videos"/>
             <SidebarRow Icon={ExpandMoreOutlinedIcon} title="Show more"/>
+            <hr />
         </div>
     );
 };
