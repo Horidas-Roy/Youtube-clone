@@ -4,7 +4,7 @@ import "./RecomendedVideos.css"
 const RecomendedVideos = () => {
     return (
         <div className="recomendedVideos">
-            <h2>Recomended</h2>
+            <h2 className="text-xl font-medium">Recomended</h2>
             <div className="Videos">
                 <Video
                  title="Become a web developer in 10 minutes | 2019-2020"
